@@ -2,6 +2,7 @@
 
 Web Design Project for a cookie website
 
+
 Pages:
 - Home:
     - index.html
@@ -15,3 +16,5 @@ Pages:
     - contact.html
 - Thank you Page:
     - thank-you.html
+- Style:
+    -  style.css
