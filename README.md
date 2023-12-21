@@ -14,7 +14,7 @@ Pages:
     - about.html
 - Contact:
     - contact.html
-- Thank you Page:
+- Thank you:
     - thank-you.html
 - Style:
     -  style.css
