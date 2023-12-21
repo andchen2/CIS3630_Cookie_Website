@@ -4,14 +4,14 @@ Web Design Project for a cookie website
 
 Pages:
 - Home:
-  - index.html
+    - index.html
 - Shop:
-  - shop.html
+    - shop.html
 - Ingredients:
-  - ingredients.html
+    - ingredients.html
 - About us:
-  - about.html
+    - about.html
 - Contact:
-  - contact.html
+    - contact.html
 - Thank you Page:
-  - thank-you.html
+    - thank-you.html
